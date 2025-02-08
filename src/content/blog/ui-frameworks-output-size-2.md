@@ -1,7 +1,7 @@
 ---
 title: "UI frameworks output size: how Svelte is even possible"
 description: "Why React weights so much more than Svelte"
-pubDate: "Jan 2 2025"
+pubDate: "Feb 8 2025"
 categories: ["UI framework", "JavaScript"]
 author: "sinskiy"
 language: "english"
